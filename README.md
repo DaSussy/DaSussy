@@ -19,10 +19,8 @@
 - 🖥️ Javascript
 
 ---
-# Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyaiu&repo=OldCord&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <details>
-<summary>Github Stats</summary>
+  <summary><strong>Github Stats</strong></summary>
   
 
   <img align="left" alt="DaSussy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaSussy&show_icons=true&hide_border=true&theme=discord_old_blurple&corner_radius=5" />

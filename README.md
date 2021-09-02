@@ -8,7 +8,7 @@
 - 😺 Pronouns: he/him 
 - 🗿 Owner of [Moyaiu Inc.](https://github.com/moyaiu)
 
-[![](https://discord.c99.nl/widget/theme-1/525379333951324190.png)]( )
+[![](https://discord.c99.nl/widget/theme-1/525379333951324190.png)](https://canary.discord.com/channels/@me/525379333951324190)
 <br />
 
 ### Languages I Know:
@@ -19,8 +19,7 @@
 ---
 ## Github Stats
   
-
-  <img align="left" alt="DaSussy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaSussy&show_icons=true&hide_border=true&theme=discord_old_blurple&corner_radius=5" />
+[![](https://github-readme-stats.vercel.app/api?username=DaSussy&show_icons=true&hide_border=true&theme=discord_old_blurple&corner_radius=5)](https://canary.discord.com/channels/@me/525379333951324190)
 
 
 [twitter]: https://twitter.com/dasussy_moyai

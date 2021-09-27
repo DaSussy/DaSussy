@@ -3,9 +3,9 @@
 
 ### I'm a Student, Youtuber, and a Developer!
 
-- 🔭 I’m currently working on [Moyaiu](https://moyaiu.github.io) and [OldCord](https://github.com/moyaiu/OldCord)
+- 🔭 I’m currently working on [Moyaiu](https://moyaiu.github.io), Discord bot and [OldCord](https://github.com/moyaiu/OldCord), a BetterDiscord theme
 - 🐍 Im currently learning Python
-- 😺 Pronouns: he/him 
+- 😺 Pronouns: any idc
 - 🗿 Owner of [Moyaiu Inc.](https://github.com/moyaiu)
 
 [![](https://discord.c99.nl/widget/theme-1/525379333951324190.png)](https://canary.discord.com/channels/@me/525379333951324190)

@@ -7,6 +7,7 @@
 - 🐍 Im currently learning Python
 - 😺 Pronouns: any idc
 - 🗿 Owner of [Moyaiu Inc.](https://github.com/moyaiu)
+- 🧠 im retarded
 
 [![](https://discord.c99.nl/widget/theme-1/525379333951324190.png)](https://canary.discord.com/channels/@me/525379333951324190)
 <br />

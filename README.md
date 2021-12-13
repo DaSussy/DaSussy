@@ -4,7 +4,6 @@
 ### I'm a Student, Youtuber, and a Developer!
 
 - 🔭 I’m currently working on [Moyaiu](https://moyaiu.github.io), Discord bot and [OldCord](https://github.com/moyaiu/OldCord), a BetterDiscord theme
-- 🐍 Im currently learning Python
 - 😺 Pronouns: any idc
 - 🗿 Owner of [Moyaiu Inc.](https://github.com/moyaiu)
 - 🧠 im retarded

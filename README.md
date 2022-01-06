@@ -21,6 +21,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=DaSussy&show_icons=true&hide_border=true&theme=discord_old_blurple&corner_radius=5)](https://canary.discord.com/channels/@me/525379333951324190)
 
 
-[twitter]: https://twitter.com/dasussy_moyai
-[youtube]: https://youtube.com/DaSussy
-[reddit]: https://www.reddit.com/u/DaSussy69
+[twitter](https://twitter.com/dasussy_moyai)
+[youtube](https://youtube.com/DaSussy)
+[reddit](https://www.reddit.com/u/DaSussy69)
